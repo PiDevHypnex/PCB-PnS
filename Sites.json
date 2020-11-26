@@ -1,6 +1,12 @@
 [
-{},
-{}
-
-
+{ "id" : 98123,
+  "host": "www.cnn.com",
+  "mainCategories":[true, true, true, false, false, false, false, false, false, false],
+ "subcategories":[192, 230]
+},
+{ "id" : 98124,
+  "host": "www.foxnews.com",
+  "mainCategories":[true, true, true, false, false, false, false, false, false, false],
+ "subcategories":[192, 230]
+}
 ]
